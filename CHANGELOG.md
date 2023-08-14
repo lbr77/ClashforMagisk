@@ -1,5 +1,5 @@
 #### ⟳ Changelog v3.0
-- replace curl, with /data/adb/magisk/busybox wget
+- replace curl, with /data/adb/ksu/bin/busybox wget
 - fix tool download core
 - remove mosdns
 - optimize cfm service scripts
